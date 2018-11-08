@@ -1,5 +1,5 @@
-# Harker AI Club
-## 2018-2019 Lecture Team
+# Harker AI Club - Resources Page
+### 2018-2019 Lecture Team
 Website: www.tiny.cc/harkeraiclub
 Email: harkeraiclub@gmail.com
 
